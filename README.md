@@ -1,10 +1,7 @@
 ## Welcome to the Github-Profile of the book 
 
-### Applied Data Science in Tourism
-### Interdisciplinary Approaches, Methodologies and Applications
-
+### Applied Data Science in Tourism: Interdisciplinary Approaches, Methodologies and Applications
 #### Publisher: Springer – Series: “Tourism on the Verge”
-
 #### Editor: Roman Egger
 
 Data Science has brought marvelous opportunities to many industries, and tourism is no exception. Although tourism is known as an interdisciplinary field that crosses sociology, economics, geography, psychology, and communication sciences, tourism researchers have long been constrained by the classical repertoire of research methodologies. Besides the widely applied quantitative and qualitative approaches, we could see advancements especially in quantitative methods over time. In an era of digitization, data comes in new unstructured forms along with traditionally structured datasets, which result in the rise of Big Data. Meanwhile, advancements in computing and the rapid development of algorithms lead to the emergence of advanced analytics that goes beyond conventional business intelligence to gain deeper insights and make predictions. Data Science is more than a set of methods and tools in elevating the typical ways of doing empirical research, allowing researchers to even find answers for previously unknown questions. However, Data Science is yet to be embraced by tourism scholars potentially because of the bigness, messiness, and unstructured nature of data that fuel confusion and uncertainty. At the same time, because Data Science has altered the epistemological foundations, the interplay between Data Science and theory deserves much attention.
@@ -13,30 +10,27 @@ By learning how to develop research questions that can be supported by theories,
 
 This book is intended to serve as a starting point that connects Data Science to the tourism industry, being helpful for both, researchers and practitioners alike. It aims to present an overview of Data Science techniques relevant for tourism by offering a theoretical foundation for these concepts and a how-to-approach which facilitates readers in developing their research projects. Of course, this book cannot claim to cover the individual chapters and topics in their completeness. Rather, the aim is to provide the reader with the necessary knowledge to facilitate the decision regarding the choice of method.
 
-Chapters will also include additional material such as R-Code, Jupyter Notebooks, Workflows etc.
-
-The following chapters are confirmed:
-
-Introduction: Data Science in Tourism
+##Structure of the book
+###Introduction: Data Science in Tourism
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-Industry Insights from Data Scientists: A Q&A Session
+###Industry Insights from Data Scientists: A Q&A Session
 Roman Egger (Salzburg University of Applied Sciences, Innovation and Management in Tourism), Mike O´Connor (booking.com), Liliya Lavitas (Tripavisor), Holger Sicking (Austrian National Tourist Office), Jeroen Mulder (Air France-KLM)
 
-Chapter 1: AI and Big Data in Tourism
+###Chapter 1: AI and Big Data in Tourism
 Luisa Mich
 University of Trento
 
-Chapter 2: Epistemological Challenges
+###Chapter 2: Epistemological Challenges
 Roman Egger & Chung-En Yu
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-Chapter 3: Interdisciplinarity in Data Science
+###Chapter 3: Interdisciplinarity in Data Science
 Roman Egger & Chung-En Yu
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-Chapter 4: Data Science & Ethics
+###Chapter 4: Data Science & Ethics
 Roman Egger, Larissa Neuburger & Michelle Mattutzzi
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 University of Florida
