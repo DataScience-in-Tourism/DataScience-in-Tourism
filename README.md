@@ -41,7 +41,7 @@ Salzburg University of Applied Sciences, Innovation and Management in Tourism
 University of Florida
 University of Groningen
 
-#### Chapter 5: Web Mining & Data Crawling
+#### Chapter 5: [Web Mining & Data Crawling](https://github.com/DataScience-in-Tourism/Chapter-5-Web-Mining-Data-Crawling)
 Roman Egger, Markus Kroner, Andreas Stöckl
 Salzburg University of Applied Sciences,
 Legalcounsel.at
@@ -51,51 +51,51 @@ School of Informatics, Communications and Media, University of Applied Sciences 
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-#### Chapter 7: Feature Engineering
+#### Chapter 7: [Feature Engineering](https://github.com/DataScience-in-Tourism/Chapter-7-Feature-Engineering)
 Pablo Duboue
 Textualization Software Ltd.
 
-#### Chapter 8: Unsupervised Machine Learning
+#### Chapter 8: [Unsupervised Machine Learning](https://github.com/DataScience-in-Tourism/Chapter-8-Unsupervised-Machine-Learning-Clustering)
 Clustering
 Matthias Fuchs & Wolfram Höpken
 Department of Economics, Geography, Law and Tourism, Mid Sweden University
 University of Applied Science Ravensburg-Weingarten
 
-#### Chapter 9: Dimensionality Reduction
+#### Chapter 9: [Dimensionality Reduction](https://github.com/DataScience-in-Tourism/Chapter-9-Dimensionality-Reduction)
 Nikolay Oskolkov
 Lund University and National Bioinformatics Infrastructure Sweden (NBIS)
 
-#### Chapter 10: Supervised Machine Learning
+#### Chapter 10: [Supervised Machine Learning](https://github.com/DataScience-in-Tourism/Chapter-10-Supervised-Machine-Learning-Classification)
 Classification
 Ulrich Bodenhofer & Andreas Stöckl
 School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
 
-#### Chapter 11: Regression
+#### Chapter 11: [Regression](https://github.com/DataScience-in-Tourism/Chapter-11-Regression)
 Ulrich Bodenhofer & Andreas Stöckl
 School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
 
-#### Chapter 12: Hyperparameter Tuning
+#### Chapter 12: [Hyperparameter Tuning](https://github.com/DataScience-in-Tourism/Chapter-12-Hyperparameter-Tuning)
 Pier Paolo Ippolito
 SAS Institute
 
-#### Chapter 13: Model Evaluation
+#### Chapter 13: [Model Evaluation](https://github.com/DataScience-in-Tourism/Chapter-13-Model-Evaluation-Overfitting)
 Ajda Pretnar
 Faculty of Computer and Information Science, University of Ljubljana
 
-#### Chapter 14: Data Interpretability of ML-Models
+#### Chapter 14: [Data Interpretability of ML-Models](https://github.com/DataScience-in-Tourism/Chapter-14-Data-Interpretability-of-ML-Models)
 Urszula Czerwinska
 no academic affiliation atm
 
-#### Chapter 15: Introduction: Natural Language Processing
+#### Chapter 15: [Introduction: Natural Language Processing](https://github.com/DataScience-in-Tourism/Chapter-15-Introduction-Natural-Language-Processing)
 Roman Egger & Enes Gokce
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 Pennsylvania State University
 
-#### Chapter 16: Text Representation and Word Embeddings
+#### Chapter 16: [Text Representation and Word Embeddings](https://github.com/DataScience-in-Tourism/Chapter-16-Text-Representation-and-Word-Embeddings)
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-#### Chapter 17: Sentiment Analysis
+#### Chapter 17: [Sentiment Analysis](https://github.com/DataScience-in-Tourism/Chapter-17-Sentiment-Analysis)
 Andrei P. Kirilenko, Svetlana Stepchenkova & Luyu Wang
 University of Florida
 
@@ -103,31 +103,31 @@ University of Florida
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-#### Chapter 19: Entity Matching
+#### Chapter 19: [Entity Matching](https://github.com/DataScience-in-Tourism/Chapter-19-Entity-Matching)
 Ivan Bilan
 TrustYou
 
-#### Chapter 20: Knowledge-Graphs
+#### Chapter 20: [Knowledge-Graphs](https://github.com/DataScience-in-Tourism/Chapter-20-Knowledge-Graphs)
 Mayank Kejriwal
 University of Southern California
 
-#### Chapter 21: Social Network Analysis
+#### Chapter 21: [Social Network Analysis](https://github.com/DataScience-in-Tourism/Chapter-21-Social-Network-Analysis)
 Rodolfo Baggio
 Bocconi University
 
-#### Chapter 22: Time Series Analysis
+#### Chapter 22: [Time Series Analysis](https://github.com/DataScience-in-Tourism/Chapter-22-Time-Series-Analysis)
 Irem Önder
 Univesity of Massachusetts Amherst
 
-#### Chapter 23: Agent-based Modeling
+#### Chapter 23: [Agent-based Modeling](https://github.com/DataScience-in-Tourism/Chapter-23-Agent-based-Modeling)
 JillianStudent
 Wageningen University
 
-#### Chapter 24: GIS Analysis
+#### Chapter 24: [GIS Analysis](https://github.com/DataScience-in-Tourism/Chapter-24-GIS-Analysis)
 Andrei P. Kirilenko
 University of Florida
 
-#### Chapter 25: Data Visualization
+#### Chapter 25: [Data Visualization](https://github.com/DataScience-in-Tourism/Chapter-25-Data-Visualization)
 Johanna Schmidt
 VRVis
 
