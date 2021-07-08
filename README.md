@@ -99,7 +99,7 @@ Salzburg University of Applied Sciences, Innovation and Management in Tourism
 Andrei P. Kirilenko, Svetlana Stepchenkova & Luyu Wang
 University of Florida
 
-#### Chapter 18: Topic Modeling
+#### Chapter 18: [Topic Modeling](https://github.com/DataScience-in-Tourism/Chapter-18-Topic-Modeling)
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
