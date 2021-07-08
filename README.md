@@ -1,4 +1,4 @@
-## Welcome to the Github-Profile of the book 
+## Welcome to the Github-Profile of the book: 
 
 ### Applied Data Science in Tourism: Interdisciplinary Approaches, Methodologies and Applications
 #### Publisher: Springer – Series: “Tourism on the Verge”
