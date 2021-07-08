@@ -10,27 +10,27 @@ By learning how to develop research questions that can be supported by theories,
 
 This book is intended to serve as a starting point that connects Data Science to the tourism industry, being helpful for both, researchers and practitioners alike. It aims to present an overview of Data Science techniques relevant for tourism by offering a theoretical foundation for these concepts and a how-to-approach which facilitates readers in developing their research projects. Of course, this book cannot claim to cover the individual chapters and topics in their completeness. Rather, the aim is to provide the reader with the necessary knowledge to facilitate the decision regarding the choice of method.
 
-##Structure of the book
-###Introduction: Data Science in Tourism
+## Structure of the book
+### Introduction: Data Science in Tourism
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-###Industry Insights from Data Scientists: A Q&A Session
+### Industry Insights from Data Scientists: A Q&A Session
 Roman Egger (Salzburg University of Applied Sciences, Innovation and Management in Tourism), Mike O´Connor (booking.com), Liliya Lavitas (Tripavisor), Holger Sicking (Austrian National Tourist Office), Jeroen Mulder (Air France-KLM)
 
-###Chapter 1: AI and Big Data in Tourism
+### Chapter 1: AI and Big Data in Tourism
 Luisa Mich
 University of Trento
 
-###Chapter 2: Epistemological Challenges
+### Chapter 2: Epistemological Challenges
 Roman Egger & Chung-En Yu
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-###Chapter 3: Interdisciplinarity in Data Science
+### Chapter 3: Interdisciplinarity in Data Science
 Roman Egger & Chung-En Yu
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 
-###Chapter 4: Data Science & Ethics
+### Chapter 4: Data Science & Ethics
 Roman Egger, Larissa Neuburger & Michelle Mattutzzi
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
 University of Florida
