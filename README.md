@@ -1,11 +1,11 @@
-### Welcome to the Github-Profile of the book 
+## Welcome to the Github-Profile of the book 
 
-## Applied Data Science in Tourism
-## Interdisciplinary Approaches, Methodologies and Applications
+### Applied Data Science in Tourism
+### Interdisciplinary Approaches, Methodologies and Applications
 
-# Publisher: Springer – Series: “Tourism on the Verge”
+#### Publisher: Springer – Series: “Tourism on the Verge”
 
-# Editor: Roman Egger
+#### Editor: Roman Egger
 
 Data Science has brought marvelous opportunities to many industries, and tourism is no exception. Although tourism is known as an interdisciplinary field that crosses sociology, economics, geography, psychology, and communication sciences, tourism researchers have long been constrained by the classical repertoire of research methodologies. Besides the widely applied quantitative and qualitative approaches, we could see advancements especially in quantitative methods over time. In an era of digitization, data comes in new unstructured forms along with traditionally structured datasets, which result in the rise of Big Data. Meanwhile, advancements in computing and the rapid development of algorithms lead to the emergence of advanced analytics that goes beyond conventional business intelligence to gain deeper insights and make predictions. Data Science is more than a set of methods and tools in elevating the typical ways of doing empirical research, allowing researchers to even find answers for previously unknown questions. However, Data Science is yet to be embraced by tourism scholars potentially because of the bigness, messiness, and unstructured nature of data that fuel confusion and uncertainty. At the same time, because Data Science has altered the epistemological foundations, the interplay between Data Science and theory deserves much attention.
 
