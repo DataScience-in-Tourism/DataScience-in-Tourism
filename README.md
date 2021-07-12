@@ -55,8 +55,7 @@ Salzburg University of Applied Sciences, Innovation and Management in Tourism
 Pablo Duboue
 Textualization Software Ltd.
 
-#### Chapter 8: [Unsupervised Machine Learning](https://github.com/DataScience-in-Tourism/Chapter-8-Unsupervised-Machine-Learning-Clustering)
-Clustering
+#### Chapter 8: [Clustering](https://github.com/DataScience-in-Tourism/Chapter-8-Unsupervised-Machine-Learning-Clustering)
 Matthias Fuchs & Wolfram Höpken
 Department of Economics, Geography, Law and Tourism, Mid Sweden University
 University of Applied Science Ravensburg-Weingarten
@@ -65,8 +64,7 @@ University of Applied Science Ravensburg-Weingarten
 Nikolay Oskolkov
 Lund University and National Bioinformatics Infrastructure Sweden (NBIS)
 
-#### Chapter 10: [Supervised Machine Learning](https://github.com/DataScience-in-Tourism/Chapter-10-Supervised-Machine-Learning-Classification)
-Classification
+#### Chapter 10: [Classification](https://github.com/DataScience-in-Tourism/Chapter-10-Supervised-Machine-Learning-Classification)
 Ulrich Bodenhofer & Andreas Stöckl
 School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
 
