@@ -66,11 +66,11 @@ Lund University and National Bioinformatics Infrastructure Sweden (NBIS)
 
 #### Chapter 10: [Classification](https://github.com/DataScience-in-Tourism/Chapter-10-Supervised-Machine-Learning-Classification)
 Ulrich Bodenhofer & Andreas Stöckl
-School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
+School of Informatics, Communications and Media, University of Applied Sciences Upper Austria
 
 #### Chapter 11: [Regression](https://github.com/DataScience-in-Tourism/Chapter-11-Regression)
 Andreas Stöckl & Ulrich Bodenhofer
-School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
+School of Informatics, Communications and Media, University of Applied Sciences Upper Austria
 
 #### Chapter 12: [Hyperparameter Tuning](https://github.com/DataScience-in-Tourism/Chapter-12-Hyperparameter-Tuning)
 Pier Paolo Ippolito
