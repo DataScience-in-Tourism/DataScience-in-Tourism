@@ -69,7 +69,7 @@ Ulrich Bodenhofer & Andreas Stöckl
 School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
 
 #### Chapter 11: [Regression](https://github.com/DataScience-in-Tourism/Chapter-11-Regression)
-Ulrich Bodenhofer & Andreas Stöckl
+Andreas Stöckl & Ulrich Bodenhofer
 School of Informatics, Communications and Media, University of Applied Sciences Hagenberg
 
 #### Chapter 12: [Hyperparameter Tuning](https://github.com/DataScience-in-Tourism/Chapter-12-Hyperparameter-Tuning)
