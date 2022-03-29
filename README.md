@@ -132,3 +132,5 @@ VRVis
 #### Chapter 26: Software and Tools
 Roman Egger
 Salzburg University of Applied Sciences, Innovation and Management in Tourism
+
+CODE IS UNDER GNU/GPL LICENSE
